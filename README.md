@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=+Python+lover+%F0%9F%90%8D;Backend+Engineer%F0%9F%92%BB;Code+with+purpose%F0%9F%8E%AF;Practical+developer%2C+always+learning%F0%9F%93%96)](https://git.io/typing-svg)?lines=20%
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=+Python+lover+%F0%9F%90%8D;Backend+Engineer%F0%9F%92%BB;Code+with+purpose%F0%9F%8E%AF;Practical+developer%2C+always+learning%F0%9F%93%96)](https://git.io/typing-svg)
 <h1 align="center">Hey there! I'm Mohammad Yasin Jafari 👋</h1>
 <p align="center">
     A Python developer who loves building useful tools with clean code 🐍💻
