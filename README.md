@@ -29,7 +29,6 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **databases**  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -75,8 +74,8 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 📊 how things are going on here
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MY-Jafari&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Jafari&layout=compact&theme=radical&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MY-Jafari&show_icons=true&theme=radical&hide_border=true&locale=en" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Jafari&layout=compact&theme=radical&hide_border=true&locale=en" />
 </p>
 
 ---
