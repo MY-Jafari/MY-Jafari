@@ -74,10 +74,13 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 📊 how things are going on here
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MY-Jafari&show_icons=true&theme=radical&hide_border=true&locale=en" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY-Jafari&layout=compact&theme=radical&hide_border=true&locale=en" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MY-Jafari&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MY-Jafari&theme=radical" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MY-Jafari&theme=radical" />
+</p>
 ---
 
 🤝 Let's connect!
