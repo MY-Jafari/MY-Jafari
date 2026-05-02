@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B;I+write+Python+...;...+and+break+stuff+sometimes+%F0%9F%98%85;Backend+is+my+comfort+zone;Always+building%2C+always+learning" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Python+lover+%F0%9F%90%8D;Backend+Engineer+%F0%9F%92%BB;Code+with+purpose+%F0%9F%8E%AF;Practical+developer%2C+always+learning+%F0%9F%93%96" alt="Typing SVG" />
+  </a>
 </div>
 
 Just a developer who loves building things with clean code and a cup of coffee ☕  
