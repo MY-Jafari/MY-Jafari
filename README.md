@@ -9,11 +9,11 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 
 ---
 
-🎯 what i’m currently obsessed with (2026)
+🎯 what i'm currently obsessed with (2026)
 
 - getting seriously good at django. like, actually building cool stuff that people can use, not just tutorial projects.
 - containerizing everything with **docker** and taming **nginx** — deployments finally make sense.
-- doing more open source, even if it’s just tiny pull requests. baby steps count, right?
+- doing more open source, even if it's just tiny pull requests. baby steps count, right?
 
 ---
 
@@ -21,7 +21,6 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 
 **languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -37,13 +36,19 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 **devops & tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Qt Designer](https://img.shields.io/badge/Qt%20Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
-✨ projects i’m kinda proud of
+✨ projects i'm kinda proud of
+
+- **[hampool](https://github.com/MY-Jafari/hampool)**  
+  a full-featured backend for shared expense management — jwt auth with 2fa, real-time chat via websockets, ai assistant powered by google gemini, pdf reporting, celery task queue, and a complete docker setup for both dev and production.  
+  `Python` `Django` `Django REST` `PostgreSQL` `Redis` `Celery` `WebSocket` `Gemini AI` `Docker` `Nginx`
 
 - **[blog_project](https://github.com/MY-Jafari/blog_project)**  
   a full django blog with authentication, smart models, and an admin panel that does the heavy lifting. dockerized and served with nginx.  
@@ -54,16 +59,16 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
   `Python` `Django REST` `API` `Docker` `PostgreSQL`
 
 - **[game-project](https://github.com/MY-Jafari/game-project)**  
-  a casual desktop game made with python and pyqt5 — proof that coding isn’t always just work, it can be a playground too.  
+  a casual desktop game made with python and pyqt5 — proof that coding isn't always just work, it can be a playground too.  
   `Python` `PyQt5` `Game`
-
-- **[todo_linkedlist](https://github.com/MY-Jafari/todo_linkedlist)**  
-  a terminal‑based to‑do list that stores tasks in a custom linked list under the hood — data structures meet everyday productivity.  
-  `Python` `Data Structures`
 
 - **[Simple-face-recognition](https://github.com/MY-Jafari/Simple-face-recognition)**  
   a lightweight face detection script using python and opencv — my first peek into the world of computer vision.  
   `Python` `OpenCV` `Computer Vision`
+
+- **[todo_linkedlist](https://github.com/MY-Jafari/todo_linkedlist)**  
+  a terminal‑based to‑do list that stores tasks in a custom linked list under the hood — data structures meet everyday productivity.  
+  `Python` `Data Structures`
 
 - **[type-speed-test](https://github.com/MY-Jafari/type-speed-test)**  
   a typing speed test that measures your wpm and accuracy — perfect for warming up your fingers before a long coding session.  
@@ -81,6 +86,7 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MY-Jafari&theme=radical" />
 </p>
+
 ---
 
 🤝 Let's connect!
@@ -90,5 +96,5 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 
 ---
 
-> 🎮 when i’m not staring at a terminal, i’m probably playing dota 2.  
-> if we ever end up on the same team, i’ll go full support — no questions asked 😄
+> 🎮 when i'm not staring at a terminal, i'm probably playing dota 2.  
+> if we ever end up on the same team, i'll go full support — no questions asked 😄
