@@ -98,3 +98,19 @@ Mostly hanging out with Python, diving deeper into Django, and always chasing th
 
 > 🎮 when i'm not staring at a terminal, i'm probably playing dota 2.  
 > if we ever end up on the same team, i'll go full support — no questions asked 😄
+
+## 🐍 contribution graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MY-Jafari/MY-Jafari/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MY-Jafari/MY-Jafari/output/github-snake.svg"
+  />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/MY-Jafari/MY-Jafari/output/github-snake.svg"
+  />
+</picture>
